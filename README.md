@@ -1,0 +1,2 @@
+# codigo
+ Exerciciodo técnico
